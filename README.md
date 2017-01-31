@@ -6,6 +6,7 @@ This is a demo website to trigger New Relic notifications.
 ## Setup
 
 ```
+git clone https://github.com/tylerlong/new-relic-demo.git && cd new-relic-demo
 yarn install
 ```
 
