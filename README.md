@@ -25,11 +25,11 @@ Launch your browser and navigate to http://localhost:3000
 By default it's an almost-empty window and it refreshes every 10 seconds. Every refresh triggers a 500 errors.
 You can confirm it by looking at the network activity of your browser.
 
-And After 5 minutes, a new incident should be created by New Relic. Message is: incident created.
+And After 5 minutes, a new incident should be created by New Relic. Message is: incident was opened.
 
 Then you can go to New Relic to acknowledge the incident. Then another message is generated: incident acknowledged.
 
-Then close the browser page. But DO keep the website server process running for another 5 minutes. One more message is generated: incident resolved.
+Then close the browser page. But DO keep the website server process running for another 5 minutes. One more message is generated: incident closed.
 
 
 ## Important notes
